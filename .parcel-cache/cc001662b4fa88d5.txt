@@ -62,7 +62,7 @@
 125C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\forkify-flowchart-part-1.png132886955210000000 0
 119C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\node_modules\lru-cache133202372649294647 1
 132C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp\upperCase.js121436361000000000 0
-101C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\dist133204874775798142 1
+101C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\dist133204890573056993 1
 146C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\actual\instance\ends-with.js121436361000000000 0
 164C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\node_modules\simple-swizzle\node_modules\is-arrayish\yarn-error.log131738691180000000 0
 119C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\node_modules\arr-union133202372645215557 1
@@ -101,7 +101,7 @@
 142C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\events\src\Disposable.js121436361000000000 0
 141C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\node_modules\yaml\browser\types\timestamp.js121436361000000000 0
 148C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\string\virtual\ends-with.js121436361000000000 0
-107C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\index.html133204201353504018 0
+107C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\index.html133204890566211540 0
 133C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\node_modules\iconv-lite\lib\index.js131794416590000000 0
 119C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\node_modules\ripemd160133203222691794890 1
 131C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\node_modules\cli-cursor\index.d.ts121436361000000000 0
@@ -18168,7 +18168,7 @@
 123C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\dist\index.436439df.js.map133204874775758265 0
 120C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\dist\index.fa02a0b5.css133204874775459047 0
 124C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\dist\index.fa02a0b5.css.map133204874775758265 0
-112C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\dist\index.html133204862302831575 0
+112C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\dist\index.html133204890573037016 0
 119C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\dist\logo.739a33b1.png133204874769854048 0
 123C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\dist\starter.b632b8bd.html133204162109788451 0
 116C:\Users\Administrator\Downloads\Compressed\complete-javascript-course-master\18-forkify\starter\.vscode\launch.json133202464025875431 0

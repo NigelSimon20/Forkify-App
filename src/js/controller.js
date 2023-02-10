@@ -31,6 +31,8 @@ const renderSpinner = function(parentEl) {
 
 const showRecipe = async function() {
   try {
+    const id = window.location.hash;
+    console.log(id)
 
     // 1) Loading Recipe
     renderSpinner(recipeContainer);
@@ -154,3 +156,5 @@ const showRecipe = async function() {
   }
 };
 showRecipe();
+
+window.addEventListener('hashchange', showRecipe)
